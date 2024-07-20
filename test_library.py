@@ -116,4 +116,4 @@ class TestLibrary(unittest.TestCase):
 
 
 if __name__ == "__main__":
-    unittest.main()  # Запуск всех тестов, если этот файл выполняется как основной
+    unittest.main()  # Запуск всех тестов
